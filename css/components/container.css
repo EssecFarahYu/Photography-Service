@@ -19,5 +19,7 @@
   /* For a screen < 540px, this CSS will be read */
   .container {
     width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
   }
 }
